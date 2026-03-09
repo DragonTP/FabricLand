@@ -48,15 +48,26 @@ Visualizations include:
 
 ---
 
-### 📖 Page 2: Program Quality Comparison
+### 📖 Page 2: Comparing Program Quality Across Majors & Levels
 
-Focuses on **academic quality and program performance across majors and levels**.
+Analyzes **program distribution and academic outcomes across majors and education levels**.
 
 Features include:
 
-- **Enrollment trend analysis** using line charts
-- Comparison of **earning potential across different programs**
-- Correlation between **faculty ratings and graduate salary outcomes**
+- **Students by Major & Level**  
+  Shows enrollment patterns across **Undergraduate, Graduate, and Apprenticeship programs**.
+
+- **Programs Distribution**  
+  A **pie chart visualization** displaying the distribution of majors across the education system.
+
+- **Popularity Trends Over Time**  
+  Tracks how the popularity of different **majors changes over time**.
+
+- **Salary & Faculty by Level**  
+  Compares **graduate salary outcomes and faculty ratings** across education levels.
+
+- **Outcome Score by Major**  
+  A combined metric that highlights **majors offering the best overall value** based on career outcomes.
 
 ---
 
